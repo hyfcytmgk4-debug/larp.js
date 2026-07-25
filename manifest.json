@@ -1,0 +1,7 @@
+{
+  "name": "Larp",
+  "description": "Plugin de personalización local de perfiles e insignias.",
+  "version": "1.0.0",
+  "author": "hyfcytmgk4-debug",
+  "main": "Larp.js"
+}
