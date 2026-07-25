@@ -1,0 +1,6 @@
+{  "name": "Larp",
+  "description": "Plugin de personalización para BT Loader.",
+  "version": "1.0.0",
+  "author": "hyfcytmgk4-debug",
+  "main": "Larp.js"
+}
